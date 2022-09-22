@@ -25,4 +25,4 @@ Put the text in a text file, then launch
 php tts.php text_file
 ```
 
-File will be splitted in chunks of less than 5000 characters, than a text_file.mp3 is generated
+A text_file.mp3 will be generated
